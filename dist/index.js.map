@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sourceRoot":"","sources":["../src/index.ts"],"names":[],"mappings":";;;;;;;;;;;;;;;;;;;AAAA,sDAAyC;AAEzC,kBAAe,gBAAiB,CAAC;AACjC,0CAAwB;AACxB,yCAAuB","sourcesContent":["import pickRandomPokemon from './picker';\r\n\r\nexport default pickRandomPokemon;\r\nexport * from './types';\r\nexport * from './data';\r\n"]}
